@@ -1,0 +1,9 @@
+com\zaglushka\demo\DemoApplication.class
+com\zaglushka\demo\KafkaMethods\CreateOrder.class
+com\zaglushka\demo\Entity\OrderEntity.class
+com\zaglushka\demo\REST_methods\POST_orders.class
+com\zaglushka\demo\KafkaConfig\KafkaConsumerConfig.class
+com\zaglushka\demo\KafkaMethods\KafkaListner.class
+com\zaglushka\demo\KafkaConfig\KafkaProducerConfig.class
+com\zaglushka\demo\Repository\OrderRepository.class
+com\zaglushka\demo\REST_Pattern\POST_pattern.class
